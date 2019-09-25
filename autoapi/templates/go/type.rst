@@ -1,1 +1,1 @@
-{% extends "go/base_member.rst" %}
+{% extends "go/base.rst" %}
